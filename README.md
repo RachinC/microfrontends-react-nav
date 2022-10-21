@@ -14,7 +14,7 @@ npm v7.0.14
 
 ### Step 1
 ```js
-git clone https://github.com/RachinC/micro-front-end.git
+git clone https://github.com/RachinC/microfrontends-react-nav.git
 ```
 
 ### Step 2
