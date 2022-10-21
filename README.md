@@ -4,8 +4,12 @@ Setup help(youtube link) - https://www.youtube.com/watch?v=MLVv516-QWA
 ------------------------------
 
 ### Pre-Requisites
+```js
 node v15.3.0
+```
+```js
 npm v7.0.14
+```
 ------------------------------
 
 ### Step 1
